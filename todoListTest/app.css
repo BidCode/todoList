@@ -1,0 +1,15 @@
+.completed {
+    text-decoration: line-through;
+    color: white
+}
+
+body {
+    background-color: rgba(167, 166, 166, 0.928);
+}
+
+
+ul {
+    padding: 0;
+    margin: 0;
+    /* border: 1px red solid; */
+}
